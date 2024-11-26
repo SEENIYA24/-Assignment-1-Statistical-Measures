@@ -18,7 +18,7 @@ Statistical measures are numerical values derived from data to summarize, descri
         Correlation Coefficient (Pearson’s): Quantifies the strength and direction of a linear relationship between two variables, ranging from -1 to 1.
         Covariance: Indicates the direction of the linear relationship between two variables but not the strength.
 
-Findings and Conclusions Based on Your Analysis
+Findings and Conclusions
 
 Based on the steps you performed, here are some conclusions that could be drawn:
 
